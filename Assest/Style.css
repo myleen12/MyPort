@@ -1,0 +1,9 @@
+
+.super {height:  200px;
+display: block;
+}
+
+@media screen and (max-width: 750px){
+.img {
+    top: 2px;
+} }
