@@ -14,10 +14,10 @@ header {
 }
 .images {
     position: absolute;
-    top: 20px;
+    top: 75px;
     border-radius: 750px;
-    left: 50px;
-    height: 300px;
+    right: 40px;
+    height: 350px;
     width: 300px;
 }
 
@@ -36,4 +36,20 @@ header nav ul li a {
     font-size: 22px;
     text-decoration-line: underline;
     border-bottom: 1px dotted;
+}
+
+.about {
+    display: f;
+    flex-wrap: wr;
+    justify-content: space-evenly;
+    margin: 75px 80px;
+    width: 50%;
+    align-items: center;
+
+}
+.title-1 {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: salmon;
+    margin: 50px;
 }
