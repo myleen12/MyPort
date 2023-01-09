@@ -53,3 +53,9 @@ header nav ul li a {
     color: salmon;
     margin: 50px;
 }
+
+.images-1 {
+    flex-wrap: wrap;
+    width: 110%;
+    height: 100%; 
+}
