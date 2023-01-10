@@ -56,6 +56,14 @@ header nav ul li a {
 
 .images-1 {
     flex-wrap: wrap;
-    width: 110%;
-    height: 100%; 
+    width: 500px;
+    height: 500px; 
 }
+ .photo-2 {
+    height: 200px;
+    width: 200px;
+ } 
+
+ #My-Work {
+    
+ }
