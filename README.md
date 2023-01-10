@@ -10,4 +10,6 @@ My portfolio help show the skill I have learned throughout the course. It show h
 - made sure all UI scrolls to corresponding section. Such as contact in the header scrolls to contact in body section.
 - made sure images were link to the page. When selected anothere page show the populate.
 
-## Usage
+## Deployed link
+
+https://myleen12.github.io/MyPort/
