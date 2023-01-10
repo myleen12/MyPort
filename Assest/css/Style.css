@@ -13,7 +13,7 @@ header {
     flex-wrap: wrap;
 }
 .images {
-    position: absolute;
+    position: float;
     top: 75px;
     border-radius: 750px;
     right: 40px;
@@ -42,16 +42,16 @@ header nav ul li a {
     display: f;
     flex-wrap: wr;
     justify-content: space-evenly;
-    margin: 75px 80px;
-    width: 50%;
+    margin: 500px 500px;
+    width: 500px;
     align-items: center;
 
 }
 .title-1 {
-    font-size: 50px;
+    font-size: 65px;
     font-family: 'Times New Roman', Times, serif;
     color: salmon;
-    margin: 50px;
+    margin-top: 700px;
 }
 
 .images-1 {
@@ -60,11 +60,31 @@ header nav ul li a {
     height: 500px; 
 }
  .photo-2 {
-    height: 200px;
-    width: 500px;
+    height: 500px;
+    width: 700px;
+    margin-bottom: 50px;
  } 
-
- #My-Work {
-    
+ .photo-1 {
+    margin-top: 25px;
+    height: 250px;
+    width: 600px;
 
  }
+
+.title-3 {
+    font-size: 65px;
+    font-family: 'Times New Roman', Times, serif;
+    color: salmon;
+}
+  
+.title-2 {
+    margin-top: 250px;
+    font-size: 65px;
+    font-family: 'Times New Roman', Times, serif;
+    color: salmon;
+
+}
+
+p {
+    font-family: fantasy;
+}
